@@ -1,0 +1,11 @@
+﻿.nav-item {
+    margin-right: 38px; /* Puedes ajustar el valor según el espacio que desees */
+}
+
+.navbar-nav .nav-link {
+    margin-right: 30px; /* Ajusta el valor según el espacio deseado */
+}
+
+.navbar-nav .nav-link[href*='Register'] {
+    margin-right: 30px; /* Aplica solo al enlace de registro */
+}
